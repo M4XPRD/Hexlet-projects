@@ -57,10 +57,10 @@ To run this game make sure you have [Node.js v.16.8.0](https://nodejs.org/en/) o
 Here's the quick guide, if everything is set up:
 
 ```sh
-# Step 1 — clone my repository
-$ git clone https://github.com/M4XPRD/frontend-project-lvl1.git
+# Step 1 — clone this repository
+$ git clone https://github.com/M4XPRD/hexlet-projects.git
 
-# Step 2 — proceed to my folder
+# Step 2 — proceed to project-lvl1 folder
 $ cd frontend-project-lvl1
 
 # Step 3 — install the dependencies
@@ -151,7 +151,10 @@ This is the utility, which shows the difference between two files. The output ca
 ```sh
 
 # Step 1 — clone this repository
-$ git clone https://github.com/M4XPRD/frontend-project-lvl2
+$ git clone https://github.com/M4XPRD/hexlet-projects.git
+
+# Step 2 — proceed to project-lvl2 folder
+$ cd frontend-project-lvl2
 
 # Step 2 — install the dependencies
 $ make install
@@ -238,7 +241,7 @@ gendiff --format json file1.json file2.json
 ```sh
 
 # Step 1 — clone this repository
-$ git clone https://github.com/M4XPRD/frontend-project-lvl3
+$ git clone https://github.com/M4XPRD/hexlet-projects.git
 
 # Step 2 — install the dependencies
 $ make install
@@ -289,26 +292,26 @@ $ make production
 ```sh
 All commands should run from root:
 
-# Step 1 — Clone this repository
-$ https://github.com/M4XPRD/frontend-project-12
+# Step 1 — clone this repository
+$ git clone https://github.com/M4XPRD/hexlet-projects.git
 
-# Step 2 — Install the dependencies
+# Step 2 — install the dependencies
 $ make install
 
-# Step 3 — Install the packages
+# Step 3 — install the packages
 $ sudo npm link
 
-# Step 4 — Start frontend and backend in root folder
+# Step 4 — start both frontend and backend from the root folder
 $ make start
 ```
 
 ```sh
 # If Step 4 didn't work — use an alternative way:
 
-# Step 5 — Initialize frontend in the first terminal
+# Step 5 — initialize frontend in the first terminal
 $ cd frontend && make start
 
-# Step 6 — Initialize backend in the second terminal
+# Step 6 — initialize backend in the second terminal
 $ make start-backend
 ```
 ## How it looks:
