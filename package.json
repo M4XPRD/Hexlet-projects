@@ -1,0 +1,19 @@
+{
+  "name": "hexlet-projects",
+  "version": "1.0.0",
+  "description": "Repo with all project made while studying at Hexlet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/M4XPRD/Hexlet-projects.git"
+  },
+  "author": "Maxim Pryadko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/M4XPRD/Hexlet-projects/issues"
+  },
+  "homepage": "https://github.com/M4XPRD/Hexlet-projects#readme"
+}
