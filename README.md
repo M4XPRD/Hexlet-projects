@@ -1,28 +1,28 @@
 # Hexlet Projects
 
-  1. [Brain Games](#bg)
+  1. [🎭 Brain Games](#bg)
       * [Description](#bg-desc)
       * [Installation](#bg-inst)
       * [Commands](#bg-com)
       * [Demonstration](#bg-demo)
 
-  2. [Difference Calculator](#dc)
+  2. [👾 Difference Calculator](#dc)
       * [Description](#dc-desc)
       * [Installation](#dc-inst)
       * [Commands](#dc-com)
       * [Demonstration](#dc-demo)
 
-  3. [RSS Reader](#rss)
+  3. [📰 RSS Reader](#rss)
       * [Description](#rss-desc)
       * [Installation](#rss-inst)
       * [Demonstration](#rss-demo)
 
-  4. [Online Chat](#chat)
+  4. [💬 Online Chat](#chat)
       * [Description](#chat-desc)
       * [Installation](#chat-inst)
       * [Demonstration](#chat-demo)
 
-# Brain Games
+# 🎭 Brain Games
 <a name="bg"></a>
 
 **Hexlet tests, CodeClimate check and linter status:**
@@ -116,7 +116,7 @@ $ brain-prime
 [![asciicast](https://asciinema.org/a/446284.svg)](https://asciinema.org/a/446284)
 
 
-# Difference Calculator
+# 👾 Difference Calculator
 <a name="dc"></a>
 
 **Hexlet tests, CodeClimate check and linter status:**
@@ -202,7 +202,7 @@ gendiff --format json file1.json file2.json
 [![asciicast](https://asciinema.org/a/474928.svg)](https://asciinema.org/a/474928)
 
 
-## RSS Reader
+# 📰 RSS Reader
 <a name="rss"></a>
 
 **Hexlet tests and linter status:**'
@@ -257,7 +257,7 @@ $ make production
 ![Screenshot_3](https://user-images.githubusercontent.com/86636158/202023171-7d2daec8-5d56-4c0d-b4fa-2acfe0162b4f.png)
 ![Screenshot_4](https://user-images.githubusercontent.com/86636158/202027161-071d1273-73bf-4374-b353-2243f92c8c80.png)
 
-# Online Chat
+# 💬 Online Chat
 <a name="chat-demo"></a>
 
 **Hexlet tests and CodeClimate maintainability:**
