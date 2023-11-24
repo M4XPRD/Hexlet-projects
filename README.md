@@ -1,31 +1,32 @@
 # Hexlet Projects
 
   1. [Brain Games](#bg)
-    * [Description](#bg-desc)
-    * [Installation](#bg-inst)
-    * [Commands](#bg-com)
-    * [Demonstration](#bg-demo)
+      * [Description](#bg-desc)
+      * [Installation](#bg-inst)
+      * [Commands](#bg-com)
+      * [Demonstration](#bg-demo)
 
   2. [Difference Calculator](#dc)
-    * [Description](#dc-desc)
-    * [Installation](#dc-inst)
-    * [Commands](#dc-com)
-    * [Demonstration](#dc-demo)
+      * [Description](#dc-desc)
+      * [Installation](#dc-inst)
+      * [Commands](#dc-com)
+      * [Demonstration](#dc-demo)
 
   3. [RSS Reader](#rss)
-    * [Description](#rss-desc)
-    * [Installation](#rss-inst)
-    * [Demonstration](#rss-demo)
+      * [Description](#rss-desc)
+      * [Installation](#rss-inst)
+      * [Demonstration](#rss-demo)
 
   4. [Online Chat](#chat)
-    * [Description](#chat-desc)
-    * [Installation](#chat-inst)
-    * [Demonstration](#chat-demo)
+      * [Description](#chat-desc)
+      * [Installation](#chat-inst)
+      * [Demonstration](#chat-demo)
 
-## Brain Games
+# Brain Games
 <a name="bg"></a>
 
-## Hexlet tests, CodeClimate check and linter status:
+**Hexlet tests, CodeClimate check and linter status:**
+
 [![Actions Status](https://github.com/M4XPRD/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/M4XPRD/frontend-project-lvl1/actions)
 [![linter-check](https://github.com/M4XPRD/frontend-project-lvl1/actions/workflows/linter-check.yml/badge.svg)](https://github.com/M4XPRD/frontend-project-lvl1/actions/workflows/linter-check.yml)
 [![Maintainability](https://api.codeclimate.com/v1/badges/021cbf28f84e6d29945d/maintainability)](https://codeclimate.com/github/M4XPRD/frontend-project-lvl1/maintainability)
@@ -115,10 +116,10 @@ $ brain-prime
 [![asciicast](https://asciinema.org/a/446284.svg)](https://asciinema.org/a/446284)
 
 
-## Difference Calculator
+# Difference Calculator
 <a name="dc"></a>
 
-## Hexlet tests, CodeClimate check and linter status:
+**Hexlet tests, CodeClimate check and linter status:**
 
 [![Actions Status](https://github.com/M4XPRD/frontend-project-lvl2/workflows/hexlet-check/badge.svg)](https://github.com/M4XPRD/frontend-project-lvl2/actions)
 [![project-check](https://github.com/M4XPRD/frontend-project-lvl2/actions/workflows/project-check.yml/badge.svg)](https://github.com/M4XPRD/frontend-project-lvl2/actions/workflows/project-check.yml)
@@ -204,7 +205,8 @@ gendiff --format json file1.json file2.json
 ## RSS Reader
 <a name="rss"></a>
 
-## Hexlet tests and linter status:
+**Hexlet tests and linter status:**'
+
 [![Actions Status](https://github.com/M4XPRD/frontend-project-lvl3/workflows/hexlet-check/badge.svg)](https://github.com/M4XPRD/frontend-project-lvl3/actions)
 [![pages-build-deployment](https://github.com/M4XPRD/frontend-project-lvl3/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/M4XPRD/frontend-project-lvl3/actions/workflows/pages/pages-build-deployment)
 [![Maintainability](https://api.codeclimate.com/v1/badges/c99e1ba900628cc47e44/maintainability)](https://codeclimate.com/github/M4XPRD/frontend-project-lvl3/maintainability)
@@ -255,10 +257,11 @@ $ make production
 ![Screenshot_3](https://user-images.githubusercontent.com/86636158/202023171-7d2daec8-5d56-4c0d-b4fa-2acfe0162b4f.png)
 ![Screenshot_4](https://user-images.githubusercontent.com/86636158/202027161-071d1273-73bf-4374-b353-2243f92c8c80.png)
 
-## Online Chat
+# Online Chat
 <a name="chat-demo"></a>
 
-## Hexlet tests and CodeClimate maintainability:
+**Hexlet tests and CodeClimate maintainability:**
+
 [![Actions Status](https://github.com/M4XPRD/frontend-project-12/workflows/hexlet-check/badge.svg)](https://github.com/M4XPRD/frontend-project-12/actions)
 [![Maintainability](https://api.codeclimate.com/v1/badges/bb97a743b480a4c418c4/maintainability)](https://codeclimate.com/github/M4XPRD/frontend-project-12/maintainability)
 
