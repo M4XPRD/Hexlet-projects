@@ -260,7 +260,7 @@ $ make production
 ![Screenshot_4](https://user-images.githubusercontent.com/86636158/202027161-071d1273-73bf-4374-b353-2243f92c8c80.png)
 
 # 💬 Online Chat
-<a name="chat-demo"></a>
+<a name="chat"></a>
 
 **Hexlet tests and CodeClimate maintainability:**
 
